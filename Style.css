@@ -1,0 +1,9 @@
+.item {
+    width: 50%;
+    height: 250%;
+    float: left;
+}
+
+.item img{
+    width: 25%
+}
